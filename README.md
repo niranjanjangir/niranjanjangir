@@ -11,7 +11,7 @@
 
 <!-- 🔭 Keenly interested in Programming, Development, Cybersecurity & Arts. -->
 - 💬 Currently learning many things (real)...
-- 🌱 17+* months building at arena.social 
+- 🌱 18+* months building at arena.social 
 - 📫 ping me at jangirniranjan10@gmail.com
 - ⚡ I like cricket, badminton, photography, (making) memes, singing, movies, shows
 
